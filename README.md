@@ -1,5 +1,5 @@
 # Exercise-01d-Inky-Misc
 
-# Your Name
+# Diego Santos
 
-# Your Github username
+# Diegotron456
